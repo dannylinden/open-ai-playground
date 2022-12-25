@@ -1,0 +1,11 @@
+{
+  "name": "AskDanny",
+  "version": "1.0.0",
+  "description": "Question API",
+  "main": "ask.js",
+  "license": "MIT",
+  "author": "Danny Linden",
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
