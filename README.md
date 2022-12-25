@@ -4,6 +4,8 @@ This API sends questions to Open API and returns the answer
 
 Its just a playground.
 
+Lambda code is inside `app` folder.
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
